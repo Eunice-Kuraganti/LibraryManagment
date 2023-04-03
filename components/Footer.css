@@ -1,0 +1,17 @@
+.footer-content{
+    min-height: 0.3vh;
+    background:rgb(108, 105, 105);
+    flex-direction: column;
+}
+.footer-title{
+    font-size: 2rem;
+}
+.footer-text{
+    font-style:oblique;
+    margin-top: 1rem;
+    margin-bottom: -1rem;
+    opacity: 0.8;
+    max-width: 770px;
+}
+
+  

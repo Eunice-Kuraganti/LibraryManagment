@@ -1,0 +1,18 @@
+.post {
+    background: #e2e8d5;
+    display: flex;
+    flex-direction: column;
+    padding: 3%;
+   margin-top:-1%;
+   height:100vh;
+}
+.heading {
+    height: 110px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+.image {
+    width: 100%;
+    height: 200px;
+}

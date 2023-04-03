@@ -1,0 +1,44 @@
+.visually-hidden {
+    clip: rect(0 0 0 0);
+    clip-path: inset(10%);
+    height: 3px;
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap;
+    width: 80px;
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+    
+    background-color: rgb(42, 84, 84);
+  }
+  .logoca{
+    height:10.2vh;
+    width:100%;
+  margin-left: 1090%;
+  margin-top: -120.3%;
+
+}
+.form-controlll{
+    margin-left:25px;
+    font-size:large;
+    font-weight: 30;
+    margin-top:0%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.mod{
+    height:50%;
+    margin-top:12%;
+    margin-left:390px;
+    width:50%;
+}
+.book{
+    position:absolute;
+    margin-top:0%;
+   
+}
+.boook{
+    position:absolute;
+   margin-top: -40%;
+}

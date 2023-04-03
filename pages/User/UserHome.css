@@ -1,0 +1,70 @@
+.user
+{
+    background-image: 
+    url("https://images.wallpaperscraft.com/image/single/books_library_shelves_138556_1920x1080.jpg");
+    background-size: "cover";
+    height: 75vh;
+  
+    margin-top: -21px;
+    font-size:50px;
+    background-repeat:no-repeat;
+}
+/* form{
+    background-color:burlywood;
+} */
+.h{
+    font-size: 30px;
+    font-weight: 700;
+   
+    text-align: center;
+    margin-top: -2%;
+    height:5vh;
+   
+    font-family:'Times New Roman', Times, serif;
+    background-color:rgb(78, 80, 81);
+}
+.logo{
+    height:13vh;
+    width:9%;
+  margin-left: 30%;
+  margin-top: -7%;
+}
+.logocart{
+    height:13vh;
+    width:9%;
+  margin-left: 45%;
+  margin-top: -11.3%;
+
+}
+.logocarts{
+    height:13.2vh;
+    width:140%;
+  margin-left: 890%;
+  margin-top: -145.3%;
+
+}
+.textbook{
+    height:4vh;
+    width:10%;
+    margin-left: 70px;
+}
+.searching{
+    
+    font-size: larger;
+    margin-left: 20px;
+    height:3vh;
+    margin-top: 0%;
+}
+.form-controll{
+    margin-left:25px;
+    margin-top:20px;
+    font-size:large;
+    font-weight: 30;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.mod{
+    height:50%;
+    margin-top:10%;
+    margin-left:390px;
+    width:50%;
+}

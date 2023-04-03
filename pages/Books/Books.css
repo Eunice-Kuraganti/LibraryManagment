@@ -1,0 +1,19 @@
+.container-fluid{
+    background-color:rgb(48, 48, 40);
+    
+}
+
+.visually-hidden {
+    clip: rect(0 0 0 0);
+    clip-path: inset(10%);
+    height: 3px;
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap;
+    width: 80px;
+    /* margin: auto; */
+    margin-left: auto;
+    margin-right: auto;
+    padding: 13rem;
+    background-color: rgb(42, 84, 84);
+  }

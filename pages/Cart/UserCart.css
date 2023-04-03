@@ -1,0 +1,32 @@
+.post-container{
+    width:500px;
+    display:flex;
+   justify-content: center;
+   margin-left: 90px;
+   margin-top:90px;
+}
+/* .card{
+    background-color:darkkhaki;
+    padding: 80px;
+    display:flex;
+    height:60vh;
+} */
+.label{
+    text-align: center;
+}
+.status{
+    width:900px;
+    margin-top:5%;
+    margin-left: 20%;
+   height: 7px;
+    display:flex;
+    font-size:150%
+   
+}
+.upp{
+    background-color:darkkhaki;
+    height:5vh;
+    font-size:x-large;
+    font-style:initial;
+    text-align: center;
+}
