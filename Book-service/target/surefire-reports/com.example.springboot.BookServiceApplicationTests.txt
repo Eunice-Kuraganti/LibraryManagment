@@ -1,0 +1,40 @@
+-------------------------------------------------------------------------------
+Test set: com.example.springboot.BookServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 9, Skipped: 0, Time elapsed: 5.853 s <<< FAILURE! - in com.example.springboot.BookServiceApplicationTests
+saveBook  Time elapsed: 0.881 s  <<< ERROR!
+java.net.ConnectException: Connection refused: connect
+	at com.example.springboot.BookServiceApplicationTests.saveBook(BookServiceApplicationTests.java:91)
+
+findAll  Time elapsed: 0.016 s  <<< ERROR!
+java.net.ConnectException: Connection refused: connect
+	at com.example.springboot.BookServiceApplicationTests.findAll(BookServiceApplicationTests.java:66)
+
+getAllBooks  Time elapsed: 0.015 s  <<< ERROR!
+java.net.ConnectException: Connection refused: connect
+	at com.example.springboot.BookServiceApplicationTests.getAllBooks(BookServiceApplicationTests.java:17)
+
+getBookByTitle  Time elapsed: 0.016 s  <<< ERROR!
+java.net.ConnectException: Connection refused: connect
+	at com.example.springboot.BookServiceApplicationTests.getBookByTitle(BookServiceApplicationTests.java:75)
+
+getBookById  Time elapsed: 0.01 s  <<< ERROR!
+java.net.ConnectException: Connection refused: connect
+	at com.example.springboot.BookServiceApplicationTests.getBookById(BookServiceApplicationTests.java:27)
+
+deleteBookById  Time elapsed: 0.011 s  <<< ERROR!
+java.net.ConnectException: Connection refused: connect
+	at com.example.springboot.BookServiceApplicationTests.deleteBookById(BookServiceApplicationTests.java:100)
+
+getBookByAuthor  Time elapsed: 0.013 s  <<< ERROR!
+java.net.ConnectException: Connection refused: connect
+	at com.example.springboot.BookServiceApplicationTests.getBookByAuthor(BookServiceApplicationTests.java:47)
+
+getBookByAccessnumber  Time elapsed: 0.014 s  <<< ERROR!
+java.net.ConnectException: Connection refused: connect
+	at com.example.springboot.BookServiceApplicationTests.getBookByAccessnumber(BookServiceApplicationTests.java:37)
+
+getBookByCategory  Time elapsed: 0.012 s  <<< ERROR!
+java.net.ConnectException: Connection refused: connect
+	at com.example.springboot.BookServiceApplicationTests.getBookByCategory(BookServiceApplicationTests.java:57)
+

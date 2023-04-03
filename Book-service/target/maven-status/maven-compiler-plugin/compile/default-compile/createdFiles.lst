@@ -1,0 +1,4 @@
+com\example\springboot\Book.class
+com\example\springboot\BookController.class
+com\example\springboot\BookServiceApplication.class
+com\example\springboot\BookRepository.class
